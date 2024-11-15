@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: "/files/paper1.pdf"
+permalink: "/CV"
 author_profile: true
 redirect_from:
   - /resume
@@ -9,3 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
+<iframe src="files/paper1.pdf" width="100%" height="600px"></iframe>

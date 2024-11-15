@@ -41,7 +41,7 @@ author:
   github           : "academicpages"
  
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -210,7 +210,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  art:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -256,10 +256,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _art
   - scope:
       path: ""
-      type: portfolio
+      type: art
     values:
       layout: single
       author_profile: true

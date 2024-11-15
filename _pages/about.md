@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 I am a first year PhD student in CS at UMass advised by Prof. Brian Levine.
+
 Recent News
+======
